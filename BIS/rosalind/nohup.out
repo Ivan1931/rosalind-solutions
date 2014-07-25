@@ -1,0 +1,49 @@
+[23850:0523/153308:ERROR:browser_main_loop.cc(226)] Gdk: gdk_window_set_icon_list: icons too large
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[23889:0523/153308:ERROR:sandbox_linux.cc(142)] InitializeSandbox() called with multiple threads in process gpu-process
+[23850:0523/153422:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[23850:0523/155655:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:IsFullscreen arguments:[  ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:GetPosition arguments:[  ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:GetPosition arguments:[  ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:GetSize arguments:[  ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:GetSize arguments:[  ]
+
+[23850:0523/160848:WARNING:dispatcher_host.cc(180)] Unknown object: 1 type:Window method:IsFullscreen arguments:[  ]
+
+[26389:0523/160858:ERROR:browser_main_loop.cc(226)] Gdk: gdk_window_set_icon_list: icons too large
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[26428:0523/160858:ERROR:sandbox_linux.cc(142)] InitializeSandbox() called with multiple threads in process gpu-process
+[26389:0523/160955:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/161327:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/161627:INFO:CONSOLE(491)] "Uncaught TypeError: Object [object Object] has no method 'openDialog'", source: file:///opt/LightTable/core/LightTable.html (491)
+[26389:0523/161815:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/170900:ERROR:browser_main_loop.cc(226)] Gdk: gdk_window_set_icon_list: icons too large
+[26389:0523/170954:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/171012:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/171130:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/174923:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/175659:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/175700:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/231431:INFO:CONSOLE(2113)] "Uncaught TypeError: Cannot read property 'line' of undefined", source: file:///opt/LightTable/core/LightTable.html (2113)
+[26389:0523/231431:INFO:CONSOLE(2113)] "Uncaught TypeError: Cannot read property 'line' of undefined", source: file:///opt/LightTable/core/LightTable.html (2113)
+[26389:0523/232558:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+[26389:0523/234715:WARNING:dispatcher_host.cc(180)] Unknown object: 4 type:Clipboard method:Get arguments:[ "text" ]
+
+ltbin: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
