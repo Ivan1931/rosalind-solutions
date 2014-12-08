@@ -5,3 +5,6 @@ clean:
 
 time-2sum:
 	time ./2SUM ../data/embiggened
+
+3sum:
+	ghc -O3 3SUM.hs
